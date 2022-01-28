@@ -1,2 +1,2 @@
 # php_parduotuve
-Parduotuvė - užduotis.
+Parduotuvė - užduotis. (Užbaigta)
